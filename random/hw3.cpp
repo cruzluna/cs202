@@ -1,5 +1,4 @@
 /*
-* Name: Cruz Luna, 2001582775, #3
 * Description:outputs calculation between two numbers or results of Anime quiz
 * Input: single character input A or Q to either do a calcuation or run an Anime quiz
 * Output: calculation results of two numbers OR quiz results
