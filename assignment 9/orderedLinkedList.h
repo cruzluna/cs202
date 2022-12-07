@@ -1,5 +1,4 @@
 /*
-* Name: Cruz Luna, 2001582775, Assignment 9
 * Description: linked list assignment.
 * Input: none.
 * Output: ordered and unordered linked lists in terminal.
