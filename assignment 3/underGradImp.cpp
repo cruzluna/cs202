@@ -1,5 +1,4 @@
 /*
-    Name: Cruz Luna, 2001582775, 1001, Assignment #3
     Description: tracks information for students, both 
     Input: none
     Output: information from student and child classes
